@@ -30,7 +30,7 @@ Recognized data formats include:
 * *PNG* - image data for Portable Network Graphics
 
 
-* *MAT* - Matlab v5 mat-file (little endian) version 0x0100
+* *MAT* - Matlab v5 mat-file (little-endian) version 0x0100
 
 
 OPTIONS
